@@ -37,7 +37,7 @@ const CONFIG = {
     '🤖️ 手机实用工具',
     '🧱 其它好玩工具'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://www.205066.xyz', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
