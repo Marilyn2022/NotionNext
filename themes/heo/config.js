@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.205066.xyz',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '影音软件', url: '/tag/TVbox' },
+  HEO_HERO_CATEGORY_1: { title: '影音软件', url: '/tag/TVBox' },
   HEO_HERO_CATEGORY_2: { title: 'ChatGPT场景应用', url: '/tag/ChatGPT场景应用' },
   HEO_HERO_CATEGORY_3: { title: '网站搭建', url: '/tag/网站搭建' },
 
