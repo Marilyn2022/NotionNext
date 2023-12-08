@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '影音软件', url: '/tag/TVBox' },
   HEO_HERO_CATEGORY_2: { title: 'ChatGPT场景应用', url: '/tag/ChatGPT场景应用' },
-  HEO_HERO_CATEGORY_3: { title: '网站搭建', url: '/tag/网站搭建' },
+  HEO_HERO_CATEGORY_3: { title: '网盘资源', url: '/quark' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
