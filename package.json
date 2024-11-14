@@ -1,5 +1,5 @@
 {
-  "name": "notion-next",
+  "name": "神器精选",
   "version": "4.7.9",
   "homepage": "https://github.com/tangly1024/NotionNext.git",
   "license": "MIT",
@@ -8,9 +8,9 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
+    "name": "205066",
     "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "url": "https://www.205066.xyz"
   },
   "scripts": {
     "dev": "next dev",
