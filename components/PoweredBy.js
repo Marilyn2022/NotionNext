@@ -10,7 +10,7 @@ export default function PoweredBy(props) {
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
       <span>Powered by</span>
       <a
-        href='https://github.com/tangly1024/NotionNext'
+        href='https://www.205066.xyz'
         className='underline justify-start'>
         NotionNext {siteConfig('VERSION')}
       </a>
