@@ -6,9 +6,8 @@ import { siteConfig } from '@/lib/config'
  */
 export default function PoweredBy(props) {
   return (
-    <div
-      className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
-      <span>Powered by</span>
+    <div className={`inline text-sm font-serif ${props.className || ''}`}>
+      <span className='mr-1'>Powered by</span>
       <a
         href='https://www.205066.xyz'
         className='underline justify-start'>
